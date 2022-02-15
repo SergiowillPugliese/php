@@ -1,0 +1,16 @@
+Comandi da console
+
+svilupposw2022@a24pc23:~$ php -v
+PHP 7.4.25 (cli) (built: Nov  9 2021 08:34:54) ( NTS )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+    with Zend OPcache v7.4.25, Copyright (c), by Zend Technologies
+svilupposw2022@a24pc23:~$ echo $path
+
+svilupposw2022@a24pc23:~$ echo $PATH
+/home/svilupposw2022/serverside/php/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-13-oracle/bin:/usr/lib/jvm/java-13-oracle/db/bin
+svilupposw2022@a24pc23:~$ which php
+/home/svilupposw2022/serverside/php/bin/php
+svilupposw2022@a24pc23:~$ 
+
+
