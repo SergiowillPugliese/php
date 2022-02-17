@@ -1,0 +1,8 @@
+collega le pagine tra loro
+inizio codice con session_start();
+crea una superglobal
+$_SESSION[];
+questo array viene automaticamente salvato alla fine dello script
+vale tra client e server
+vale per il ciclo di vita dell'array
+
