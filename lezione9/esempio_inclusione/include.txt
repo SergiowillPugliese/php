@@ -1,0 +1,8 @@
+<?php
+
+//come includere codice nei nostri file
+
+include('filename'); //genera errore warning
+
+require('filmname'); //genera errore fatal
+
