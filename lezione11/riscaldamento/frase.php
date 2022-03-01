@@ -46,3 +46,4 @@ if (isset($_GET['word'])){
     </tr>
 </table>
 <p>frase composta:<?= ' '.$_SESSION['phrase'].' ' ?> </p>
+
